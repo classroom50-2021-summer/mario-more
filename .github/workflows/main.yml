@@ -1,4 +1,4 @@
-name: mario/less tests
+name: mario/more tests
 on: [push]
 jobs:
   Autograding:
