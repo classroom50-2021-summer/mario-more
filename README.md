@@ -8,7 +8,7 @@ To start this problem:
 
 To submit this problem:
 
-* In your Codespace, run `submit50 classroom50/mario-more-USERNAME`, replacing `USERNAME` with your GitHub username.
+* In your Codespace, run `submit50 classroom50/mario-more USERNAME`, replacing `USERNAME` with your GitHub username.
 
 After submitting all of Problem Set 1, be sure to also submit the [Problem Set 1 form](https://forms.cs50.io/2bbf1ef1-d8e3-4c24-ae0f-c09a7998ecb6).
 
